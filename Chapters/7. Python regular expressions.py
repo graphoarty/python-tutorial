@@ -1,23 +1,34 @@
 '''
 
-Matching Vs searching
+7. Python regular expressions
 
-match & search functions
+https://docs.python.org/3/library/re.html
+https://regex101.com/
+https://www.tutorialspoint.com/python3/python_reg_expressions.htm
 
-search & replace
+Regex Tutorial
+https://regexone.com/lesson/introduction_abcs
 
-option flags
+Matching Vs Searching
 
-RE patterns
+    - https://docs.python.org/3/library/re.html#search-vs-match
 
-non-greedy repetitions
+Match & Search Functions
 
-grouping
+Search & Replace
 
-back references
+Option Flags
 
-alternatives
+RE Patterns
 
-anchors
+Non-Greedy Repetitions
+
+Grouping
+
+Back References
+
+Alternatives
+
+Anchors
 
 '''

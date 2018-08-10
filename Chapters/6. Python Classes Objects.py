@@ -2,36 +2,36 @@
 
 Object oriented programming and classes in Python
 
-creating classes
+https://www.tutorialspoint.com/python3/python_classes_objects.htm
 
-instance objects
+Creating Classes
 
-accessing members
+Instance Objects
 
-data hiding (the double underscore prefix)
+Accessing Members
 
-Built-in class attributes
+Data Hiding (the double underscore prefix)
+
+Built-in class attributes 
 
 Garbage collection
 
-the constructor
+The Constructor
 
-overloading
+Operator Overloading (https://thepythonguru.com/python-operator-overloading/)
 
-methods and operators
+Methods and Operators
 
 Inheritance - implementing a subclass
 
-overriding
+Overriding Methods
 
-methods
-
-Recursive calls to methods
+Recursive calls to Methods
 
 Class variables
 
-class methods
+Class Methods, Static Methods 
 
-static methods
+    - https://realpython.com/instance-class-and-static-methods-demystified/
 
 '''

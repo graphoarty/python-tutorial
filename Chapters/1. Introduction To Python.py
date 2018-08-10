@@ -1,7 +1,6 @@
 '''
 
-1. INTRODUCTION TO PYTHON
-
+1. INTRODUCTION TO PYTHON (https://docs.python.org/3/tutorial/)
 
 IDENTIFIERS
 
